@@ -26,3 +26,5 @@ this is a nlp project using bert to perform chinese wsd (this word is "生活") 
 ```
 
 ![词云输出](./output/text.png)
+
+![wsd结果](./output/截屏2022-07-05 16.17.14.png)
